@@ -1,1 +1,1 @@
-First commit
+little script that take a string in a book directory then shows the letters frequency.
